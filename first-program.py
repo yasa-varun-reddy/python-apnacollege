@@ -8,3 +8,5 @@ print("Hello World")
 print("Varun Reddy","Yasa.", "Age is :" ,26)
 
 print(65+35)
+ 
+# By above statement similarly we can do any operations and can print output
