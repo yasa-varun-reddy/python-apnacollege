@@ -5,4 +5,6 @@ print("Hello World")
 'You Can print multiple statements using comma and below syntax'
 # This is a comment
 
-print("Varun Reddy","Yasa")
+print("Varun Reddy","Yasa.", "Age is :" ,26)
+
+print(65+35)
